@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-fastapi-book-api",
+      "title": "Persisting API Data with SQLite",
+      "description": "Connect a FastAPI book service to a local SQLite database for persistent REST API data",
+      "path": "assignments/sqlite-fastapi-book-api",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
